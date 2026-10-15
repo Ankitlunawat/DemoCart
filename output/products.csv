@@ -1,0 +1,61 @@
+﻿sku,product_name,category,price_inr,rating,availability,source_page
+SKU-0001,Atlas Plus Audio 001,Audio,536.99,3.6,In Stock,page-1.html
+SKU-0002,Vega Pro Accessories 002,Accessories,673.99,3.7,In Stock,page-1.html
+SKU-0003,Metro Edge Home Office 003,Home Office,810.99,3.8,In Stock,page-1.html
+SKU-0004,Aster Max Gaming 004,Gaming,947.99,3.9,In Stock,page-1.html
+SKU-0005,Nimbus Air Wearables 005,Wearables,1084.99,4.0,In Stock,page-1.html
+SKU-0006,Quartz Lite Audio 006,Audio,1221.99,4.1,In Stock,page-1.html
+SKU-0007,Orion Plus Accessories 007,Accessories,1358.99,4.2,Out of Stock,page-1.html
+SKU-0008,Pulse Pro Home Office 008,Home Office,1495.99,4.3,In Stock,page-1.html
+SKU-0009,Cedar Edge Gaming 009,Gaming,1632.99,4.4,In Stock,page-1.html
+SKU-0010,Nova Max Wearables 010,Wearables,1769.99,4.5,In Stock,page-1.html
+SKU-0011,Atlas Air Audio 011,Audio,1906.99,4.6,In Stock,page-1.html
+SKU-0012,Vega Lite Accessories 012,Accessories,2043.99,4.7,In Stock,page-1.html
+SKU-0013,Metro Plus Home Office 013,Home Office,2180.99,4.8,In Stock,page-2.html
+SKU-0014,Aster Pro Gaming 014,Gaming,2317.99,4.9,Out of Stock,page-2.html
+SKU-0015,Nimbus Edge Wearables 015,Wearables,2454.99,3.5,In Stock,page-2.html
+SKU-0016,Quartz Max Audio 016,Audio,2591.99,3.6,In Stock,page-2.html
+SKU-0017,Orion Air Accessories 017,Accessories,2728.99,3.7,In Stock,page-2.html
+SKU-0018,Pulse Lite Home Office 018,Home Office,2865.99,3.8,In Stock,page-2.html
+SKU-0019,Cedar Plus Gaming 019,Gaming,3002.99,3.9,In Stock,page-2.html
+SKU-0020,Nova Pro Wearables 020,Wearables,3139.99,4.0,In Stock,page-2.html
+SKU-0021,Atlas Edge Audio 021,Audio,3276.99,4.1,Out of Stock,page-2.html
+SKU-0022,Vega Max Accessories 022,Accessories,3413.99,4.2,In Stock,page-2.html
+SKU-0023,Metro Air Home Office 023,Home Office,3550.99,4.3,In Stock,page-2.html
+SKU-0024,Aster Lite Gaming 024,Gaming,3687.99,4.4,In Stock,page-2.html
+SKU-0025,Nimbus Plus Wearables 025,Wearables,3824.99,4.5,In Stock,page-3.html
+SKU-0026,Quartz Pro Audio 026,Audio,3961.99,4.6,In Stock,page-3.html
+SKU-0027,Orion Edge Accessories 027,Accessories,4098.99,4.7,In Stock,page-3.html
+SKU-0028,Pulse Max Home Office 028,Home Office,4235.99,4.8,Out of Stock,page-3.html
+SKU-0029,Cedar Air Gaming 029,Gaming,4372.99,4.9,In Stock,page-3.html
+SKU-0030,Nova Lite Wearables 030,Wearables,4509.99,3.5,In Stock,page-3.html
+SKU-0031,Atlas Plus Audio 031,Audio,4646.99,3.6,In Stock,page-3.html
+SKU-0032,Vega Pro Accessories 032,Accessories,4783.99,3.7,In Stock,page-3.html
+SKU-0033,Metro Edge Home Office 033,Home Office,4920.99,3.8,In Stock,page-3.html
+SKU-0034,Aster Max Gaming 034,Gaming,5057.99,3.9,In Stock,page-3.html
+SKU-0035,Nimbus Air Wearables 035,Wearables,5194.99,4.0,Out of Stock,page-3.html
+SKU-0036,Quartz Lite Audio 036,Audio,5331.99,4.1,In Stock,page-3.html
+SKU-0037,Orion Plus Accessories 037,Accessories,5468.99,4.2,In Stock,page-4.html
+SKU-0038,Pulse Pro Home Office 038,Home Office,5605.99,4.3,In Stock,page-4.html
+SKU-0039,Cedar Edge Gaming 039,Gaming,5742.99,4.4,In Stock,page-4.html
+SKU-0040,Nova Max Wearables 040,Wearables,5879.99,4.5,In Stock,page-4.html
+SKU-0041,Atlas Air Audio 041,Audio,6016.99,4.6,In Stock,page-4.html
+SKU-0042,Vega Lite Accessories 042,Accessories,6153.99,4.7,Out of Stock,page-4.html
+SKU-0043,Metro Plus Home Office 043,Home Office,6290.99,4.8,In Stock,page-4.html
+SKU-0044,Aster Pro Gaming 044,Gaming,6427.99,4.9,In Stock,page-4.html
+SKU-0045,Nimbus Edge Wearables 045,Wearables,6564.99,3.5,In Stock,page-4.html
+SKU-0046,Quartz Max Audio 046,Audio,6701.99,3.6,In Stock,page-4.html
+SKU-0047,Orion Air Accessories 047,Accessories,6838.99,3.7,In Stock,page-4.html
+SKU-0048,Pulse Lite Home Office 048,Home Office,6975.99,3.8,In Stock,page-4.html
+SKU-0049,Cedar Plus Gaming 049,Gaming,7112.99,3.9,Out of Stock,page-5.html
+SKU-0050,Nova Pro Wearables 050,Wearables,7249.99,4.0,In Stock,page-5.html
+SKU-0051,Atlas Edge Audio 051,Audio,7386.99,4.1,In Stock,page-5.html
+SKU-0052,Vega Max Accessories 052,Accessories,7523.99,4.2,In Stock,page-5.html
+SKU-0053,Metro Air Home Office 053,Home Office,7660.99,4.3,In Stock,page-5.html
+SKU-0054,Aster Lite Gaming 054,Gaming,7797.99,4.4,In Stock,page-5.html
+SKU-0055,Nimbus Plus Wearables 055,Wearables,7934.99,4.5,In Stock,page-5.html
+SKU-0056,Quartz Pro Audio 056,Audio,8071.99,4.6,Out of Stock,page-5.html
+SKU-0057,Orion Edge Accessories 057,Accessories,408.99,4.7,In Stock,page-5.html
+SKU-0058,Pulse Max Home Office 058,Home Office,545.99,4.8,In Stock,page-5.html
+SKU-0059,Cedar Air Gaming 059,Gaming,682.99,4.9,In Stock,page-5.html
+SKU-0060,Nova Lite Wearables 060,Wearables,819.99,3.5,In Stock,page-5.html

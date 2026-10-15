@@ -1,0 +1,21 @@
+{
+  "run_at": "2026-10-15T04:32:59.547088+00:00",
+  "source": "Self-created DemoCart HTML; fictional products, not client data",
+  "pages": 5,
+  "products": 60,
+  "unique_skus": 60,
+  "invalid_rows": 0,
+  "categories": [
+    "Accessories",
+    "Audio",
+    "Gaming",
+    "Home Office",
+    "Wearables"
+  ],
+  "average_price_inr": 4058.49,
+  "exports": [
+    "products.csv",
+    "products.json",
+    "products.xlsx"
+  ]
+}
